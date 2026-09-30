@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": "maceraaletleri:demir_kanca",
+    "I": "minecraft:iron_ingot",
+    "L": "minecraft:leather",
+    "G": "maceraaletleri:gaz_tupu"
+  },
+  "pattern": [
+    "H H",
+    "ILI",
+    "G G"
+  ],
+  "result": {
+    "id": "maceraaletleri:manevra_takimi",
+    "count": 1
+  }
+}

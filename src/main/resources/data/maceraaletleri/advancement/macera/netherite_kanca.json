@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "maceraaletleri:netherite_kanca"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.netherite_kanca.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.netherite_kanca.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "sahip": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "maceraaletleri:netherite_kanca"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sahip"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/ilk_kanca"
+}

@@ -1,0 +1,104 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 45
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:isaret_fisegi",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:ip_merdiven",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:demir_kanca",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:planor",
+          "weight": 7
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:gaz_tupu",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:uyku_tulumu",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:tirmanma_eldiveni",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:miknatis_yuzugu",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:kasif_durbunu",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:ziplama_botu",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:elmas_kanca",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "maceraaletleri:manevra_takimi",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

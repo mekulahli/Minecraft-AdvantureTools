@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:campfire"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.sicak_hava.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.sicak_hava.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "kod": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kod"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/kus_gibi"
+}

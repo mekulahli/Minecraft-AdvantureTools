@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "maceraaletleri:block/uyku_tulumu"
+    },
+    "facing=east": {
+      "model": "maceraaletleri:block/uyku_tulumu",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "maceraaletleri:block/uyku_tulumu",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "maceraaletleri:block/uyku_tulumu",
+      "y": 270
+    }
+  }
+}

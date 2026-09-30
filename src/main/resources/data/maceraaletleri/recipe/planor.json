@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": "minecraft:leather",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "LLL",
+    "S S",
+    " S "
+  ],
+  "result": {
+    "id": "maceraaletleri:planor",
+    "count": 1
+  }
+}

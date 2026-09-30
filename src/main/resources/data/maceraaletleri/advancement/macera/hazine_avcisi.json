@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.hazine_avcisi.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.hazine_avcisi.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "kod": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kod"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/root"
+}

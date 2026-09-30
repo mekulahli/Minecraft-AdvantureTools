@@ -1,0 +1,135 @@
+{
+  "textures": {
+    "on": "maceraaletleri:item/demir_sirt_cantasi",
+    "particle": "maceraaletleri:item/demir_sirt_cantasi"
+  },
+  "elements": [
+    {
+      "from": [
+        3,
+        1,
+        5
+      ],
+      "to": [
+        13,
+        13,
+        11
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            2,
+            13,
+            14
+          ],
+          "texture": "#on"
+        },
+        "south": {
+          "uv": [
+            3,
+            2,
+            13,
+            14
+          ],
+          "texture": "#on"
+        },
+        "east": {
+          "uv": [
+            3,
+            6,
+            9,
+            14
+          ],
+          "texture": "#on"
+        },
+        "west": {
+          "uv": [
+            3,
+            6,
+            9,
+            14
+          ],
+          "texture": "#on"
+        },
+        "up": {
+          "uv": [
+            3,
+            3,
+            13,
+            9
+          ],
+          "texture": "#on"
+        },
+        "down": {
+          "uv": [
+            3,
+            10,
+            13,
+            13
+          ],
+          "texture": "#on"
+        }
+      }
+    },
+    {
+      "from": [
+        4,
+        2,
+        4
+      ],
+      "to": [
+        12,
+        7,
+        5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            6,
+            12,
+            11
+          ],
+          "texture": "#on"
+        },
+        "east": {
+          "uv": [
+            4,
+            6,
+            5,
+            11
+          ],
+          "texture": "#on"
+        },
+        "west": {
+          "uv": [
+            4,
+            6,
+            5,
+            11
+          ],
+          "texture": "#on"
+        },
+        "up": {
+          "uv": [
+            4,
+            6,
+            12,
+            7
+          ],
+          "texture": "#on"
+        },
+        "down": {
+          "uv": [
+            4,
+            10,
+            12,
+            11
+          ],
+          "texture": "#on"
+        }
+      }
+    }
+  ]
+}

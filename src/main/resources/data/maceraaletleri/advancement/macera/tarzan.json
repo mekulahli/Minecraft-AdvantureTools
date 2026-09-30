@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:vine"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.tarzan.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.tarzan.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "kod": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kod"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/ilk_kanca"
+}

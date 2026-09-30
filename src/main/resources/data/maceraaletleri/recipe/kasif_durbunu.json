@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": "minecraft:redstone",
+    "G": "minecraft:gold_ingot",
+    "S": "minecraft:spyglass"
+  },
+  "pattern": [
+    " R ",
+    "GSG",
+    " R "
+  ],
+  "result": {
+    "id": "maceraaletleri:kasif_durbunu",
+    "count": 1
+  }
+}

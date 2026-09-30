@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    " II",
+    " SI",
+    "S  "
+  ],
+  "result": {
+    "id": "maceraaletleri:demir_kanca",
+    "count": 1
+  }
+}

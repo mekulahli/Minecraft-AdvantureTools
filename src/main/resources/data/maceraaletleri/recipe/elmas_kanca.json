@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": "minecraft:diamond",
+    "K": "maceraaletleri:demir_kanca"
+  },
+  "pattern": [
+    " D ",
+    "DKD",
+    " D "
+  ],
+  "result": {
+    "id": "maceraaletleri:elmas_kanca",
+    "count": 1
+  }
+}

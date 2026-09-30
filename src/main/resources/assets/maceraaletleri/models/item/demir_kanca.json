@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "maceraaletleri:item/demir_kanca"
+  }
+}

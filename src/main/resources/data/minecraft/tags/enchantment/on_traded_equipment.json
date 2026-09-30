@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "maceraaletleri:menzil",
+    "maceraaletleri:hizli_cekim",
+    "maceraaletleri:suzulme",
+    "maceraaletleri:cekim_gucu"
+  ]
+}

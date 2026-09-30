@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "maceraaletleri:block/ip_merdiven"
+    },
+    "facing=east": {
+      "model": "maceraaletleri:block/ip_merdiven",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "maceraaletleri:block/ip_merdiven",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "maceraaletleri:block/ip_merdiven",
+      "y": 270
+    }
+  }
+}

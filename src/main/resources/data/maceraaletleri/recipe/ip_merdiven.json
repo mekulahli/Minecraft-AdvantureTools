@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "minecraft:string",
+    "T": "minecraft:stick"
+  },
+  "pattern": [
+    "S S",
+    "TTT",
+    "S S"
+  ],
+  "result": {
+    "id": "maceraaletleri:ip_merdiven",
+    "count": 1
+  }
+}

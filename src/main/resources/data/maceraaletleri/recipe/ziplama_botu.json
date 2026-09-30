@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "minecraft:slime_ball",
+    "L": "minecraft:leather",
+    "P": "minecraft:phantom_membrane"
+  },
+  "pattern": [
+    "S S",
+    "L L",
+    "P P"
+  ],
+  "result": {
+    "id": "maceraaletleri:ziplama_botu",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/ladder",
+  "textures": {
+    "texture": "maceraaletleri:block/ip_merdiven",
+    "particle": "maceraaletleri:block/ip_merdiven"
+  }
+}

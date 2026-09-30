@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "maceraaletleri:ziplama_botu"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.cift_ziplama.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.cift_ziplama.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "kod": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kod"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/root"
+}

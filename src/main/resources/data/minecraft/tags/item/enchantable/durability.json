@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "maceraaletleri:demir_kanca",
+    "maceraaletleri:elmas_kanca",
+    "maceraaletleri:netherite_kanca",
+    "maceraaletleri:planor",
+    "maceraaletleri:ziplama_botu",
+    "maceraaletleri:isinlanma_pusulasi",
+    "maceraaletleri:kasif_durbunu"
+  ]
+}

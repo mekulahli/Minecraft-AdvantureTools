@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "input": "maceraaletleri:altin_sirt_cantasi",
+  "material": "minecraft:diamond_block",
+  "result": {
+    "id": "maceraaletleri:elmas_sirt_cantasi"
+  }
+}

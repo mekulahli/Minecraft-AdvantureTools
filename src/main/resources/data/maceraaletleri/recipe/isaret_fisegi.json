@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:gunpowder",
+    "minecraft:glowstone_dust",
+    "minecraft:red_dye"
+  ],
+  "result": {
+    "id": "maceraaletleri:isaret_fisegi",
+    "count": 4
+  }
+}

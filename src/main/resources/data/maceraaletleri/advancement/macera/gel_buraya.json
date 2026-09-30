@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:lead"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.gel_buraya.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.gel_buraya.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "kod": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kod"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/ilk_kanca"
+}

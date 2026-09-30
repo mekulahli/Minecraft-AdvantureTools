@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "maceraaletleri:zipline_makarasi"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.zipline.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.zipline.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "kod": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kod"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/root"
+}

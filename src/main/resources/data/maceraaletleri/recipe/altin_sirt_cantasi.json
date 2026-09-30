@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "input": "maceraaletleri:demir_sirt_cantasi",
+  "material": "minecraft:gold_block",
+  "result": {
+    "id": "maceraaletleri:altin_sirt_cantasi"
+  }
+}

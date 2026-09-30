@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "maceraaletleri:manevra_takimi"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.titan_avcisi.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.titan_avcisi.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "kod": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kod"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/ilk_kanca"
+}

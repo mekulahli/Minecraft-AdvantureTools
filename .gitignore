@@ -1,0 +1,141 @@
+# ==============================================================================
+# Git Ignore - Minecraft Mod (NeoForge / Java / Gradle)
+# Proje: Macera Aletleri
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Gradle & Build Çıktıları
+# ------------------------------------------------------------------------------
+.gradle/
+build/
+out/
+bin/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/**/build/
+!**/src/**/out/
+!**/src/**/bin/
+
+# Gradle yerel ayarları ve önbellekler
+.gradle-build-scan.properties
+gradle.properties.local
+local.properties
+
+# ------------------------------------------------------------------------------
+# Java & Derleme Dosyaları
+# ------------------------------------------------------------------------------
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+
+# JVM Çökme / Hata Raporları
+hs_err_pid*
+replay_pid*
+
+# ------------------------------------------------------------------------------
+# Minecraft Çalıştırma ve Test Ortamı (Run / Test)
+# ------------------------------------------------------------------------------
+run/
+!**/src/**/run/
+**/src/generated/**/.cache/
+repo/
+!**/src/**/repo/
+
+# Kök dizinde veya harici oluşabilecek test/çalıştırma kalıntıları
+crash-reports/
+logs/
+saves/
+world/
+screenshots/
+usercache.json
+usernamecache.json
+stats/
+options.txt
+optionsof.txt
+servers.dat
+
+# ------------------------------------------------------------------------------
+# IDE & Kod Editörleri
+# ------------------------------------------------------------------------------
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+.run/
+cmake-build-*/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Eclipse
+.apt_generated/
+.classpath
+.eclipse/
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbproject/gradle-targets.xml
+
+# Genel editör geçici ve yedek dosyaları
+*.sublime-project
+*.sublime-workspace
+*~
+*.swp
+*.swo
+*.orig
+*.rej
+
+# ------------------------------------------------------------------------------
+# İşletim Sistemi Kalıntıları
+# ------------------------------------------------------------------------------
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.stackdump
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+.directory
+.Trash-*
+
+# ------------------------------------------------------------------------------
+# Güvenlik, Anahtarlar ve API Tokenları (Secrets & Tokens)
+# ------------------------------------------------------------------------------
+# Modrinth / CurseForge yayınlama tokenları ve gizli dosyalar
+*token*.txt
+*secret*.txt
+*credentials*.json
+*.env
+*.env.*
+!.env.example
+
+# Mod imzalama anahtarları (KeyStore)
+*.keystore
+*.jks
+*.p12
+*.pfx
+keystore.properties
+secrets.properties

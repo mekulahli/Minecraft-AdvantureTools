@@ -1,0 +1,12 @@
+{
+  "gives": {
+    "id": "maceraaletleri:planor",
+    "count": 1.0
+  },
+  "max_uses": 4.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 10.0
+  }
+}

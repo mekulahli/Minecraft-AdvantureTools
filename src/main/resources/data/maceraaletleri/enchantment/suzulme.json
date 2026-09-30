@@ -1,0 +1,20 @@
+{
+  "description": {
+    "translate": "enchantment.maceraaletleri.suzulme"
+  },
+  "supported_items": "maceraaletleri:planor",
+  "weight": 3,
+  "max_level": 2,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 9
+  },
+  "max_cost": {
+    "base": 25,
+    "per_level_above_first": 9
+  },
+  "anvil_cost": 2,
+  "slots": [
+    "hand"
+  ]
+}

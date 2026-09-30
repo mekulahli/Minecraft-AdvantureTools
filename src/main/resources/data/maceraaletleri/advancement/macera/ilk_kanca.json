@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "maceraaletleri:demir_kanca"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.ilk_kanca.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.ilk_kanca.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "sahip": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#maceraaletleri:kancalar"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sahip"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/root"
+}

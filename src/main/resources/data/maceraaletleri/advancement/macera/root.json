@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "maceraaletleri:demir_kanca"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.root.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.root.description"
+    },
+    "frame": "task",
+    "background": "minecraft:gui/advancements/backgrounds/adventure",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "sahip": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#maceraaletleri:aletler"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sahip"
+    ]
+  ]
+}

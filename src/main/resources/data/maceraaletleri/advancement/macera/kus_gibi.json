@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "maceraaletleri:planor"
+    },
+    "title": {
+      "translate": "advancements.maceraaletleri.kus_gibi.title"
+    },
+    "description": {
+      "translate": "advancements.maceraaletleri.kus_gibi.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "kod": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "kod"
+    ]
+  ],
+  "parent": "maceraaletleri:macera/root"
+}
