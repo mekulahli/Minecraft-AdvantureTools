@@ -381,4 +381,4 @@ src/main/resources/
 
 ## Lisans
 
-[MIT](LICENSE) © 2026 ismail
+[MIT](LICENSE) © 2026 M. Ege

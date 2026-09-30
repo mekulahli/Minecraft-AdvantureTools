@@ -384,4 +384,4 @@ The code is written with Turkish identifiers and comments.
 
 ## License
 
-[MIT](LICENSE) © 2026 ismail
+[MIT](LICENSE) © 2026 M. Ege
